@@ -1,5 +1,6 @@
 # Music_Player 
 I have built a Music Player using html , css , javascript.
+You can also toggle from light mode to dark mode by tapping the moon icon.
 You can play , pause the music.
 You can also play the next song , and also the previous song.
 You can also tap on shuffle button to play any random song.
